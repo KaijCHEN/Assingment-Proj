@@ -1,6 +1,6 @@
 # BattleShip (Battle Ship)
 
-==========================================================================================================================
+==========================================================================
 
 Description:
 
@@ -18,7 +18,7 @@ The game's stage is identified by showing the current OceanMap, with BattleShip 
 Game is over when all BattleShips are destroyed. 
 
 
-===========================================================================================================================
+=========================================================================
 
 Special trcik: 
   
@@ -26,7 +26,8 @@ Special trcik:
   
   For each step after user input coordination, by typing "TR", user could cheat and peek the current OceanMap and BattleShips tat have not been destroyed.
   
-===========================================================================================================================
+  
+=========================================================================
 
 This program is implemented in Java 8, in Object-Oriented-Thinking. 
 
