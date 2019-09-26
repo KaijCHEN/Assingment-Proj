@@ -1,3 +1,3 @@
-# Assingment-Proj
+# Assingment
 
-Proj collection for UIC Computer Science Courses
+Implementation of assignments. Will keep on fulfilling.
