@@ -1,9 +1,9 @@
-# Battleship (Battle Ship)
+# BattleShip (Battle Ship)
 
 
 Description:
 
-BattleShip is a single user game. 
+BattleShip is a single user game, on console. 
 
 By giving a txt file (with size restricted for current stage), having BattleShips and Ocean represented with "x" and ".", user can play this game by guessing the location of all BattleShips.
 
@@ -23,5 +23,6 @@ Special trcik:
   
 
 
-This game is implemented in Java 8, in Object-Oriented-Thinking. 
+This program is implemented in Java 8, in Object-Oriented-Thinking. 
 Only basic types are used.
+Practice of Object-Oriented-Thinking, and Class relation.
